@@ -1,7 +1,7 @@
 Accept bitcoin, fiat and crypto payments for your services and goods and always receive kyc free bitcoins.
 
-[List of suppoted crypto payment methods](https://www.anybtcpay.com/api/shapeshift)  
-[List of suppoted fiat payment methods](https://www.anybtcpay.com/api/peach)  
+#### Suppoted fiat payment methods  
+Sepa, Instant Sepa, Paypal, Revolut, Wise, Twint, Swish, Mb Way, Satispay, Bizum, Advcash, Vipps, Faster Payments, Mobile Pay, Skrill, Neteller, Paysera, Paylib, Straksbetaling, Keks Pay, Friends 24, N 26, Iris, Lydia, Blik, Papara, National Transfer bg, National Transfer cz, National Transfer dk, National Transfer hu, National Transfer no, National Transfer pl, National Transfer ro, National Transfer tr, Cbu, Cvu, Mercado Pago, Alias, Bancolombia, Rappipay, Nequi, Sinpe, Sinpe Movil, Pix, Orange Money, Moov, Mtn, Wave, Airtel Money, M Pesa, National Transfer ng, Chippercash, Eversend, Payday, Mobile Airtime, Flutterwave
 
 [Main website](https://anybtcpay.com)  
 [Booking cloud](https://booking.anybtcpay.com)  
